@@ -3,9 +3,10 @@
 # Hi,I'm Pluto!⚡
 
 - 🔭 I’m currently working on Pizzahut
-- 🌱 I’m currently learning English
+- 🌱 I’m currently learning Computer Science and Technology
 - 😄 How to reach me: <https://t.me/Pluto_2022>
 - 💬 This is my communication group: <https://t.me/aoaostar>
+- ✉️ Send me an email: [i@aoaostar.com](mailto:i@aoaostar.com)
 
 ## Mobile devices
 [![](https://img.shields.io/badge/Xiaomi-FF6900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)
