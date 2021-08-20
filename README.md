@@ -4,10 +4,10 @@
 
 - 🔭 I’m currently working on Pizzahut
 - 🌱 I’m currently learning Computer Science and Technology
-- 😄 How to reach me: <https://t.me/Pluto_2022>
 - ✨ This is my blog: <https://blog.aoaostar.com>
 - 😄 How to reach me: <https://t.me/Pluto_2022>
 - 💬 This is my communication group: <https://t.me/aoaostar>
+- 🐱 This is my github: <https://github.com/aoaostar>
 - ✉ Send me an email: [i@aoaostar.com](mailto:i@aoaostar.com)
 
 ## Mobile devices
